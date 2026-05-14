@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Kalebe
+# 👋 Olá, eu sou o Kalebe Santts
 
 Sou **Desenvolvedor Front-End iniciante**, focado em criar interfaces web modernas, responsivas e funcionais.  
 Atualmente estou em início de carreira, aprendendo na prática através de projetos pessoais completos, envolvendo front-end e integração com back-end para fins de estudo.
